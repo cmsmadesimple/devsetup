@@ -32,6 +32,10 @@ Then run it:
 - Creates `.htaccess` and necessary temp directories  
 - Applies proper permissions  
 
+## Temporary Admin Credentials
+username: cmsmsuser
+password: cmsmspassword
+
 ## Requirements
 
 - Bash shell  
