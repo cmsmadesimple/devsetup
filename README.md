@@ -14,7 +14,7 @@ cd cmsmadesimple
 Download the `install.sh` script from this repository:
 
 ```bash
-wget https://github.com/cmsmadesimple/devsetup/main/install.sh
+wget https://raw.githubusercontent.com/cmsmadesimple/devsetup/refs/heads/main/install.sh
 chmod +x install.sh
 ```
 
